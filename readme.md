@@ -35,5 +35,9 @@
 -	git show 8c928e835
 
 6. Найдите все коммиты в которых была изменена функция globalPluginDirs.
--	отв:
--
+-	отв "Будет состоять из Комитов и Хеш":
+-	78b122055   78b12205587fe839f10d946ea3fdc06719decb05
+-	52dbf9483   52dbf94834cb970b510f2fba853a5b49ad9b1a46 
+-	41ab0aef7   41ab0aef7a0fe030e84018973a64135b11abcd70
+-	66ebff90c   66ebff90cdfaa6938f26f908c7ebad8d547fea17
+-	8364383c3   8364383c359a6b738a436d1b7745ccdce178df47
