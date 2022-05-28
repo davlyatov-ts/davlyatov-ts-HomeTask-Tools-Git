@@ -1,7 +1,7 @@
 1. Найдите полный хеш и комментарий коммита, хеш которого начинается на aefea
-        Команда: git show aefea (позволяет вывести полный хеш и комментарий коммита)
-        коментарий к данному комиту является: (Update CHANGELOG.md).
-        хеш данног комита: aefead2207ef7e2aa5dc81a34aedf0cad4c32545
+-        Команда: git show aefea (позволяет вывести полный хеш и комментарий коммита)
+-       коментарий к данному комиту является: (Update CHANGELOG.md).
+-      хеш данног комита: aefead2207ef7e2aa5dc81a34aedf0cad4c32545
 
 2. Какому тегу соответствует коммит 85024d3 ?
         Данный комит соответствуе тегу (tag: v0.12.23)
@@ -29,3 +29,5 @@
     отв:
     5af1e6234 main: Honor explicit provider_installation CLI config when present
     8c928e835 main: Consult local directories as potential mirrors of providers
+	git show 5af1e6234
+	git show 8c928e835
